@@ -28,10 +28,11 @@ break it.
 
 ### 1.1.0
 
-| Add            | Remove       | Update |
-| ---            | ---          | ---    |
-| TooManyFriends | Inferno      |        |
-|                | AI Blacklist |        |
+| Add            | Remove                     | Update |
+| ---            | ---                        | ---    |
+| TooManyFriends | Inferno                    |        |
+|                | AI Blacklist               |        |
+|                | Epic Killstreaks Announcer |        |
 
 ### 1.0.0
 
