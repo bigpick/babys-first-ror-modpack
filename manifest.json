@@ -2,7 +2,7 @@
   "name": "BabysFirstModpack",
   "version_number": "1.0.0",
   "website_url": "",
-  "description": "A modpack of the best character, item, skin, and QOL mods - so you don't have to do it yourself",
+  "description": "A modpack of the best character item skin and QOL mods so you don't have to do it yourself",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2103",
     "XoXFaby-BetterUI-2.7.6",
@@ -63,4 +63,3 @@
     "EnforcerGang-Rocket-0.7.0"
   ]
 }
-
