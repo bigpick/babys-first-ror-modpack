@@ -18,9 +18,15 @@ Navigate to the **Online** tab and search **"Baby's First Modpack"**. Click **Do
 
 Then enjoy playing!
 
+## Publishing
+
+Note: the Thunderstore is dumb, and you need to `zip -rj`, not including the parent path as part of
+the zip, since it looks for `manifest.json` straight up, and a parent path in the zip will
+break it.
 
 ## Changelog
 
 ### 1.0.0
 
 Initial release.
+
