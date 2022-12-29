@@ -24,6 +24,12 @@ Note: the Thunderstore is dumb, and you need to `zip -rj`, not including the par
 the zip, since it looks for `manifest.json` straight up, and a parent path in the zip will
 break it.
 
+e.g.
+
+```bash
+mkdir BabysFirstModpack && cp * BabysFirstModpack; zip -rj BabysFirstModpack.zip BabysFirstModpack
+```
+
 ## Changelog
 
 ### 1.1.0
