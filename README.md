@@ -26,6 +26,13 @@ break it.
 
 ## Changelog
 
+### 1.1.0
+
+| Add            | Remove       | Update |
+| ---            | ---          | ---    |
+| TooManyFriends | Inferno      |        |
+|                | AI Blacklist |        |
+
 ### 1.0.0
 
 Initial release.
