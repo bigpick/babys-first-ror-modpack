@@ -35,6 +35,12 @@ mkdir BabysFirstModpack && cp * BabysFirstModpack; zip -rj BabysFirstModpack.zip
 
 ## Changelog
 
+### 2.1.0
+
+| Add               | Remove | Update |
+| ----------------- | ------ | ------ |
+| **Lots** of skins |        |        |
+
 ### 2.0.0
 
 | Add           | Remove           | Update          |
